@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -- coding: utf-8 --
+  
 def nums():
     i = int(input('Введите число от 1 до 8: '))
     if i >= 1 and i <= 8:

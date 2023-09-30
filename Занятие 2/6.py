@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -- coding: utf-8 --
+  
 import math
 x = 16.55*(10**-3)
 y = -2.75

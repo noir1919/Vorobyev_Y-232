@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -- coding: utf-8 --
+  
 def main(a,b,c):
     numbers = [a,b,c]
     return min(numbers)

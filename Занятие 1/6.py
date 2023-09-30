@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
 x = input('Введите x: ')
 y = input('Введите y: ')
 x,y=y,x

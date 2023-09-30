@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -- coding: utf-8 --
+  
 def main():
     a = int(input('Введите первое число: '))
     b = int(input('Введите второе число: '))
