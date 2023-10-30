@@ -1,5 +1,3 @@
-  
-# -- coding: utf-8 --
 a = 1
 s = 0
 n = int(input('Введите число n: '))

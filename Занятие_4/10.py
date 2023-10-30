@@ -1,5 +1,3 @@
-  
-# -- coding: utf-8 --
 n = int(input('Введите число n: '))
 k = int(input('Введите число k: '))
 fib = [0, 1]

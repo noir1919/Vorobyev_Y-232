@@ -1,6 +1,3 @@
-  
-# -*- coding: utf-8 -*-
-age = int(input('Введите ваш возраст: '))
 name = input('Введите ваше имя: ')
 def check(age, name):
     if name != 'Иван':

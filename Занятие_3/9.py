@@ -1,5 +1,3 @@
-  
-# -- coding: utf-8 --
 def main():
     n = int(input('Введите число n: '))
     m = int(input('Введите число m: '))
