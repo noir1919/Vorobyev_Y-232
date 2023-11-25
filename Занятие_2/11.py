@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 import math
 x = 6.251
 y = 0.827

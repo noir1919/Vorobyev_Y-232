@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 def main(a,b,l,N):
     length = (2 * l + (2 * N - 1) * a + 2 * (N - 1) * b)
     return length

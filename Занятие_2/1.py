@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 import math
 x = 14.26
 y = -1.22

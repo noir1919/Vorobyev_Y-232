@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 n = int(input('Введите N: '))
 def main(n):
     a = 2

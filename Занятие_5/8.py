@@ -1,3 +1,4 @@
+# -- coding: utf-8 --
 def main():
     i = 1
     x = 1
