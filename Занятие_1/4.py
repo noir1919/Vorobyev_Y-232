@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 seconds = int(input('Введите число секунд: '))
 days = seconds // 86400
 minutes = (seconds // 60) % 60

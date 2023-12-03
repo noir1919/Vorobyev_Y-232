@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 def main():
     a = 1
     s = 0

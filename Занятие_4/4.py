@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 def main():
     s = 0
     n = int(input('Введите кол-во чисел: '))

@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 n = int(input('Введите N: '))
 def main(n):
     for i in range(n):

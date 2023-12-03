@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 def main():
     a = int(input('Введите число A: '))
     b = int(input('Введите число B: '))

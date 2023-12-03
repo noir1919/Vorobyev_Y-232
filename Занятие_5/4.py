@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 x = int(input('Введите X: '))
 y = int(input('Введите Y: '))
 

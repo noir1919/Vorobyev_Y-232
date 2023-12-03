@@ -1,4 +1,3 @@
-# -- coding: utf-8 --
 import math
 x = 1.825*(10**2)
 y = 18.225

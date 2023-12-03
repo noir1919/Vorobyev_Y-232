@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 age = int(input('Введите ваш возраст: '))
 name = input('Введите ваше имя: ')
 if name != 'Иван':
